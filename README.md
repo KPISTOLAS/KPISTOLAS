@@ -7,7 +7,7 @@ Computer Scientist
 I'm a dedicated computer scientist with a strong passion for creating innovative digital solutions. From web development to broader software engineering projects, I take pride in crafting dynamic, efficient, and user-friendly applications.
 
 * 🌍  I'm based in Kavala. Greece
-* 🖥️  See my portfolio at [https://pistolasdev.netlify.app/](http://pistolasdev.netlify.app)
+* 🖥️  See my website at [https://pistolasdev.netlify.app/](http://pistolasdev.netlify.app)
 * ✉️  You can contact me at [kpistolas.b@gmail.com](mailto:kpistolas.b@gmail.com)
 
 ### Skills
